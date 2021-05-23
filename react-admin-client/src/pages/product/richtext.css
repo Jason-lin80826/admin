@@ -1,0 +1,6 @@
+.demo-editor{
+    border: 1px solid black;
+    min-height: 110px;
+    line-height: 10px;
+    padding-left: 10px;
+}
